@@ -1,4 +1,4 @@
-#3👋 Hi, I'm Hansa
+## 👋 Hi, I'm Hansa
 | Aspiring Data Analyst<br><br>A detail-oriented computer science enthusiast transitioning into data analytics. I leverage my strong foundation in programming and problem-solving to clean, analyze, and visualize data to uncover meaningful insights. Passionate about transforming raw data into actionable intelligence.
 
 
