@@ -1,13 +1,13 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Hansa Piyumal</h1>
-<h3 align="center">Passionate Data Analyst Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate in JAVA Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hansaPiyumal&label=Profile%20views&color=0e75b6&style=flat" alt="hansaPiyumal" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **JAVA**
 
 - 🧑‍🎓 I’m a graduated CS student from **UOJ**
 
@@ -25,7 +25,7 @@
 </tr>
 </table>
 
-| Aspiring Data Analyst<br><br>A detail-oriented computer science enthusiast transitioning into data analytics. I leverage my strong foundation in programming and problem-solving to clean, analyze, and visualize data to uncover meaningful insights. Passionate about transforming raw data into actionable intelligence.
+| Aspiring java developer<br><br>A detail-oriented computer science enthusiast. I leverage my strong foundation in programming and problem-solving to clean, analyze, and visualize data to uncover meaningful insights.
 
 
 ## 🌐 Socials:
